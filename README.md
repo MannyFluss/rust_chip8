@@ -10,5 +10,8 @@ https://mannyfluss.github.io/rust_chip8/MyImplementation/web/
 #Usage
 - download some chip8 roms (you can find some in the roms folder).
 - open the link and load a rom.
-- Controlls
-- 1234, qwer, asdf, zxcv
+- Controls
+ - 1234
+ - qwer
+ - asdf
+ - zxcv
