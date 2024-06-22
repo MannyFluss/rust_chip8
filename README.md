@@ -7,11 +7,8 @@
 # Play the emulator here:
 https://mannyfluss.github.io/rust_chip8/MyImplementation/web/ 
 
-#Usage
+# Usage
 - download some chip8 roms (you can find some in the roms folder).
 - open the link and load a rom.
 - Controls
- - 1234
- - qwer
- - asdf
- - zxcv
+ - 1234 qwer asdf zxcv
